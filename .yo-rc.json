@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "BasketLeague",
+    "packageName": "com.example.basketleague",
+    "packageFolder": "com/example/basketleague",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "87112d6bcda3a6c11ff6f2a6ee5fd0403ec3c9bc",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
